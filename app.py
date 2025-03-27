@@ -1,7 +1,7 @@
 import streamlit as st
 from datetime import datetime
 
-st.title("SDI First App")
+st.title("SDI First App!")
 
 # Title of the app
 st.title("Julian Day Calculator")
