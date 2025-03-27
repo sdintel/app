@@ -23,6 +23,7 @@ def calculate_julian_day(year, month, day):
 # Calculate and display the Julian day
 julian_day = calculate_julian_day(year, month, day)
 st.write(f"The Julian day for {month}/{day}/{year} is: {julian_day}")
+st.markdown(f"**The Julian day for {month}/{day}/{year} is: {julian_day}**")
 
 st.title("Square Calculator")
 st.write("This app allows you to select a value using the slider, and it will show the square of that value.")
