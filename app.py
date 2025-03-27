@@ -1,6 +1,7 @@
 import streamlit as st
-# SDI is cool!
-st.title("Square Calculator")
+
+st.title("SDI First App")
+
 st.write("This app allows you to select a value using the slider, and it will show the square of that value.")
 
 # Slider widget for user input
